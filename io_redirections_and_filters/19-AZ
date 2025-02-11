@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | sed c [Ac][Ze] 
+sort | tr 'Az' 'Ze' 
